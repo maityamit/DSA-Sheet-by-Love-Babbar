@@ -3,8 +3,8 @@
 A sheet that covers almost every concept of Data Structures and Algorithms.
 <br>
 # Topics 🧾
-## [Array](#Array)
-## [Matrix](#Matrix)
+## [Array](https://github.com/maityamit/DSA-Sheet-by-Love-Babbar/tree/master/Array)
+## [Matrix](https://github.com/maityamit/DSA-Sheet-by-Love-Babbar/tree/master/Matrix)
 
 <br>
 
